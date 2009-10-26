@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!--Language file translated with Team XBMC Translator-->
 <!--Translator: blittan-->
 <!--Email: blittan@xbmc.org-->
@@ -18,18 +18,18 @@
   <string id="31008">TEMP</string>
   <string id="31009">ENHETER</string>
   <string id="31010">MUSIK</string>
-  <string id="31011">SPEL</string>
+  <string id="31011">APP STORE</string>
   <string id="31012">BILDER</string>
   <string id="31013">FILMER</string>
   <string id="31014">TV SERIER</string>
   <string id="31015">VIDEOR</string>
-  <string id="31016">INSTÄLLNINGAR</string>
+  <string id="31016">ALTERNATIV</string>
   <string id="31017">VÄDER</string>
   <string id="31018">SPELA SKIVA</string>
-  <string id="31019">STÄNG AV</string>
+  <string id="31019">AVSLUTA</string>
   <string id="31020">SKRIPT</string>
   <string id="31021">ASSISTENT</string>
-  <string id="31030">SPEL</string>
+  <string id="31030">APP STORE</string>
   <string id="31031">BILDER</string>
   <string id="31032">FILMER</string>
   <string id="31033">TV</string>
@@ -145,10 +145,13 @@
   <string id="31204">HEMVISUALISERING</string>
   <string id="31205">NU SPELAS</string>
   <string id="31206">AVSTÄNGNINGSTIMER</string>
-  <string id="31207">STARTA OM</string>
-  <string id="31208">STÄNG AV</string>
+  <string id="31207">VILA</string>
+  <string id="31208">AVSLUTA PLEX</string>
   <string id="31209">LOGGA UT</string>
   <string id="31210">MATA UT</string>
+  <string id="31211">STARTA OM</string> 
+  <string id="31212">SUSPEND</string>
+  <string id="31213">STÄNG AV</string>
   <string id="31220">KATALOGEN INNEHÅLLER:</string>
   <string id="31221">SKRIV SÖKVÄG ELLER BLÄDDRA TILL PLATSEN</string>
   <string id="31222">VÄLJ ETT NAMN FÖR DEN DELADE ENHETEN</string>
@@ -212,7 +215,7 @@
   <string id="31320">FÖRINSTÄLLNINGAR FÖR VISNING</string>
   <string id="31321">DATABASKONTROLL</string>
   <string id="31322">KVALITET OCH KALIBRERING</string>
-  <string id="31323">TEXT OCH FÄRG</string>
+ 
   <string id="31324">TAGS OCH SKÄRM</string>
   <string id="31325">INTERVALLER OCH EFFEKTER</string>
   <string id="31326">SKAL OCH RSSFLÖDEN</string>
@@ -223,8 +226,8 @@
   <string id="31331">PROXIES OCH SÖKNINGAR</string>
   <string id="31332">HTTP GRÄNSSNITT</string>
   <string id="31333">ARBETSGRUPP OCH INLOGGNING</string>
-  <string id="31334">KLIENT OCH DELNINGAR</string>
-  <string id="31335">PORTAR OCH INTERVALLER</string>
+  
+ 
   <string id="31336">LOGGNING OCH TIMEOUTS</string>
   <string id="31337">INMATNING OCH FÖRDRÖJNINGAR</string>
   <string id="31338">MEDIATYPER</string>
@@ -235,12 +238,12 @@
   <string id="31343">DATABASKONTROLL</string>
   <string id="31344">HÅRDVARA OCH NIVÅER</string>
   <string id="31345">ID TAGS OCH SÖKNINGAR</string>
-  <string id="31346">ANMÄLNINGAR OCH PROFIL</string>
-  <string id="31347">MAPPAR OCH INSTÄLLNINGAR</string>
-  <string id="31348">VOLYM OCH RÖSTMASKERINGAR</string>
+
+
+
   <string id="31349">RIKTNUMMER OCH REGION</string>
   <string id="31350">FÖRINSTÄLLNINGAR FÖR BLÄDDRING</string>
-  <string id="31351">ONLINE KÄLLOR</string>
+  
   <string id="31400">INGEN AFFISCH?[CR][CR]KONTROLLERA ATT DU HAR EN SEPARAT "BIG" MINIATYRBILD[CR]BREDVID FILMENS FIL OCH ATT[CR]DESS NAMN STÄMMER ÖVERENS[CR](BARBARELLA.MKV-BIG.PNG)[CR][CR]SE AEON MANUALEN FÖR MER DETALJERAD INFORMATION</string>
   <string id="31401">SKRIVEN AV</string>
   <string id="31402">REGISSÖR</string>
@@ -280,7 +283,7 @@
   <string id="31500">NYHETER</string>
   <string id="31501">AEONS ONLINE UPPDATERINGAR</string>
   <string id="31502">VÄSENTLIGT</string>
-  <string id="31503">XBMC STATISTIK</string>
+  <string id="31503">PLEX STATISTIK</string>
   <string id="31504">CREDITS</string>
   <string id="31505">UPPHOVSMÄN OCH TACK TILL</string>
   <string id="31510">ASSISTENT</string>
@@ -291,10 +294,10 @@
   <string id="31522">TILLBAKA TILL GRUNDERA</string>
   <string id="31523">TRYCK VÄLJ FÖR ATT SE AEONS VÄLKOMSTGUIDNING IGEN</string>
   <string id="31524">KONTAKTAR AEONS SERVER</string>
-  <string id="31598">XBMC BYGGDATUM[CR]AEON VERSION[CR]NUVARANDE TEMA[CR]SPRÅK[CR]SKÄRMUPPLÖSNING[CR]TILLGÄNGLIGT MINNE[CR]HÅRDDISK UTRYMME[CR]CPU TEMPERATUR[CR]GPU TEMPERATUR[CR]SYSTEM UPPTID[CR]ONLINE STATUS[CR]IP ADRESS[CR]OPTISK ENHET</string>
+  <string id="31598">PLEX BYGGDATUM[CR]AEON VERSION[CR]NUVARANDE TEMA[CR]SPRÅK[CR]SKÄRMUPPLÖSNING[CR]TILLGÄNGLIGT MINNE[CR]HÅRDDISK UTRYMME[CR]CPU TEMPERATUR[CR]GPU TEMPERATUR[CR]SYSTEM UPPTID[CR]ONLINE STATUS[CR]IP ADRESS[CR]OPTISK ENHET</string>
   <string id="31600">AEON VERSION: 1.0</string>
   <string id="31601">LEDIGT MINNE:</string>
-  <string id="31602">XBMC BYGGDATUM:</string>
+  <string id="31602">PLEX BYGGDATUM:</string>
   <string id="31603">FPS:</string>
   <string id="31604">NUVARANDE FÖNSTER ID:</string>
   <string id="31605">NUVARANDE FOKUS:</string>
@@ -308,14 +311,14 @@
   <string id="31651">I centrum för Aeon är den horisontellt-scrollande meny som ger omedelbar tillgång till[CR]dess olika miljöer. Bakgrunder kan tilldelas varje alternativ antingen som[CR]en bild eller ett bildspel. Menyn kan flyttas mellan olika positioner[CR]med en enkel knapptryckning. Tid och RSS kan också flyttas och tas loss.</string>
   <string id="31652">I Aeon kan filmer och musik avnjutas via fyra olika vyer.[CR]Var och en designad för att uppfylla specifika behov. Utställning erbjuder bäst synlighet[CR]för bilder; Panel ger en mer konventionell miniatyrvy; Lista[CR] är självklart; Vägg passar för stora mediasamlingar då den utnyttjar mest av skärmens yta.</string>
   <string id="31653">Aeon älskar bilder. Dess visuella filosofi kretsar helt kring varje[CR]enskild användares smak och innehåll. Tycker du om Actionfilmer? Fantasy[CR]videospel? Passionerad epok drama? Dekorera din omgivning enligt detta.[CR]Affischer och omslagsbilder visas i sin tur i vacker högupplösning.</string>
-  <string id="31654">Att bygga ett bibliotek av filmer, tv-serier och musik låter Aeon[CR]utnyttja den fulla kraften hos XBMC, för att ge en meningsfull och informativ bläddringsupplevelse.[CR]Filmhandlignar och album recensioner är bara toppen av isberget tack vare den[CR]info som hämtas från IMDB, Allmusic, eller en av de många användartillgängliga källor.</string>
+  <string id="31654">Att bygga ett bibliotek av filmer, tv-serier och musik låter Aeon[CR]utnyttja den fulla kraften hos PLEX, för att ge en meningsfull och informativ bläddringsupplevelse.[CR]Filmhandlignar och album recensioner är bara toppen av isberget tack vare den[CR]info som hämtas från IMDB, Allmusic, eller en av de många användartillgängliga källor.</string>
   <string id="31655">TRYCK VÄLJ FÖR ATT PÅBÖRJA GUIDNINGEN. TRYCK TILLBAKA FÖR ATT AVSLUTA</string>
   <string id="31656">TRYCK NEDÅT FÖR NÄSTA BILD, VÄLJ FÖR ATT AVSLUTA</string>
   <string id="31657">TRYCK NEDÅT FÖR NÄSTA BILD, UPPÅT FÖR FÖREGÅENDE BILD, ELLER VÄLJ FÖR ATT AVSLUTA</string>
   <string id="31659">Navigering mellan Aeons vyer och fönster kan inte vara enklare.[CR]Den Globala Menyn kan nås när som helst, när som helst , med[CR]genvägar till Inställningar, Anpassning och Aeon Assistenten. En fyrvägs[CR]"kompass"-meny ger omedelbar tillgång till de olika vytyperna.</string>
-  <string id="31660">Varje aspekt av Aeon och XBMC kan konfigureras bakom kulisserna[CR]En mångfasetterad Inställningsmeny finns tillgänglig från vilken ruta som helst,[CR]uppdelad i sektioner för enkel användning. Dess virtuella hemsida ger en[CR]nytänkande visuell referens för alla dina anpassningsbehov.</string>
+  <string id="31660">Varje aspekt av Aeon och PLEX kan konfigureras bakom kulisserna[CR]En mångfasetterad Inställningsmeny finns tillgänglig från vilken ruta som helst,[CR]uppdelad i sektioner för enkel användning. Dess virtuella hemsida ger en[CR]nytänkande visuell referens för alla dina anpassningsbehov.</string>
   <string id="31661">Det finns inga begränsningar för hur många bakgrundsbilder[CR]du kan placera på Aeons meny-bakgrunder. Mappar som innehåller tusentals bilder kan tilldelas[CR]sektioner som Filmer och Musik. Allting över den aktuella skärmupplösningen[CR]förminkas, allting under förstoras.</string>
-  <string id="31662">Kontrollera varje aspekt av XBMC:s mediauppspelning utan att missa en sekund.[CR]Via On-screen display:en för video och musik kan du anpassa allt från[CR]undertexter och bildformat till den audiovisuella synkroniseringen. Permanenta bokmärken[CR]kan ställas in för enkel tillgång till dina favoritscener.</string>
+  <string id="31662">Kontrollera varje aspekt av PLEX:s mediauppspelning utan att missa en sekund.[CR]Via On-screen display:en för video och musik kan du anpassa allt från[CR]undertexter och bildformat till den audiovisuella synkroniseringen. Permanenta bokmärken[CR]kan ställas in för enkel tillgång till dina favoritscener.</string>
   <string id="31663">De dagar då en användares egna anpassningar kom till ett pris[C]och högkvalitets konst var bara en dröm är nu förbi. The Aeon Project webbplatsen erbjuder hundratals[CR]av de bästa bakgrundsbilderna för Aeons alla fönster, kostnadsfritt och utan[CR]irriterande annonser. Använd Aeon Assistenten för uppdateringar och nytt innehåll.</string>
   <string id="31700">CODEC</string>
   <string id="31701">BITRATE</string>
@@ -345,28 +348,28 @@
   <string id="31754">VÄLJ</string>
   <string id="31755">VÄLJ RIKTNING FÖR ATT BYTA VY[CR]TRYCK FÖR ATT ÅNGRA</string>
   <string id="31756">ENDAST LIST-VYN ÄR TILLGÄNGLIG FÖR AVSNITT</string>
-  <string id="31800">FRISTÅENDE UNDERTEXTER</string>
+  <string id="31800">TIPS: FRISTÅENDE UNDERTEXTER</string>
   <string id="31801">FÖR ATT ANVÄNDA FRISTÅENDE UNDERTEXTER MÅSTE DEN HA SAMMA NAMN SOM VIDEO FILEN.[CR]T.EX. VEXILLE.AVI KRÄVER ATT UNDERTEXTEN HETER VEXILE.SRT (FILÄNDELSERNA KAN VARIERA)</string>
-  <string id="31802">MUSIKVIDEOR</string>
-  <string id="31803">XBMC KAN HANTERA MUSIKVIDEOR PÅ SAMMA VIS SOM FILMER. I BIBLIOTEKSLÄGET ANGE[CR]ATT EN MAPPS INNEHÅLL ÄR 'MUSIKVIDEOR', VÄLJ EN INFOKÄLLA OCH LÅT XBMC SKÖTA RESTEN</string>
-  <string id="31804">EMULERING</string>
-  <string id="31805">XBMC KAN KÖRA IGÅNG EMULATORER PÅ ALLA PLATTFORMAR, MEN METODERNA KAN VARIERA.[CR]KOLLA MED XBMC FORUMET (XBMC.ORG) FÖR STÖDDA PROGRAMVAROR OCH TIPS</string>
-  <string id="31806">ROTERA MED EXIF INFORMATION</string>
+  <string id="31802">TIPS: MUSIKVIDEOR</string>
+  <string id="31803">PLEX KAN HANTERA MUSIKVIDEOR PÅ SAMMA VIS SOM FILMER. I BIBLIOTEKSLÄGET ANGE[CR]ATT EN MAPPS INNEHÅLL ÄR 'MUSIKVIDEOR', VÄLJ EN INFOKÄLLA OCH LÅT PLEX SKÖTA RESTEN</string>
+  <string id="31804">TIPS: EMULERING</string>
+  <string id="31805">PLEX KAN KÖRA IGÅNG EMULATORER PÅ ALLA PLATTFORMAR, MEN METODERNA KAN VARIERA.[CR]KOLLA MED PLEX FORUMET (PLEXAPP.COM) FÖR STÖDDA PROGRAMVAROR OCH TIPS</string>
+  <string id="31806">TIPS: ROTERA MED EXIF INFORMATION</string>
   <string id="31807">MODERNA KAMEROR INFOGAR INFORMATION OM MOTIVET I ALLA BILDER SOM TAS. MED DENNA FUNKTION[CR]AKTIVERAD, ROTERAS BILDERNA TILL DEN EGENTLIGA POSITIONEN VID UPPVISNING</string>
-  <string id="31808">LIVE VÄDERPROGNOSER</string>
-  <string id="31809">XBMC VISAR VÄDERPROGNOSER FÖR UPP TILL TRE PLATSER, TACK VARE WEATHER.COM.[CR]FÖRUTOM DINA GEOGRAFISKA PLATSER, KAN DU OCKSÅ VÄLJA MELLAN METRISK OCH AMERIKANSK SKALA</string>
-  <string id="31810">FÅ EN KLARARE ÖVERBLICK</string>
+  <string id="31808">TIPS: LIVE VÄDERPROGNOSER</string>
+  <string id="31809">PLEX VISAR VÄDERPROGNOSER FÖR UPP TILL TRE PLATSER, TACK VARE WEATHER.COM.[CR]FÖRUTOM DINA GEOGRAFISKA PLATSER, KAN DU OCKSÅ VÄLJA MELLAN METRISK OCH AMERIKANSK SKALA</string>
+  <string id="31810">TIPS: FÅ EN KLARARE ÖVERBLICK</string>
   <string id="31811">ATT FLYTTA OM AEON:S MENYER ÄR LÄTT OCH SMÄRTFRITT MED ONE-TOUCH OMPLACERING. TRYCK UPPÅT ELLER[CR]NEDÅT FÖR ATT VÄXLA MELLAN POSITIONER OCH ALLA UTSMYCKNINGAR FLYTTAR SIG SJÄLVA AUTOMATISKT</string>
-  <string id="31812">EXTERN LAGRINGSKAPACITET</string>
-  <string id="31813">FLYTTBARA HÅRDDISKAR AV STÖRRE KAPACITET (500GB+) LÄMPAR SIG IDEALISKT FÖR[CR]STORA HD FILMSAMLINGAR. XBMC KAN HANTERA TUSENTALS FILER FRÅN DINA DEFINIERADE KÄLLOR</string>
-  <string id="31814">EN ÄKTA HIGH DEFINTION MEDIA OMGIVNING</string>
+  <string id="31812">TIPS: EXTERN LAGRINGSKAPACITET</string>
+  <string id="31813">FLYTTBARA HÅRDDISKAR AV STÖRRE KAPACITET (500GB+) LÄMPAR SIG IDEALISKT FÖR[CR]STORA HD FILMSAMLINGAR. PLEX KAN HANTERA TUSENTALS FILER FRÅN DINA DEFINIERADE KÄLLOR</string>
+  <string id="31814">TIPS: EN ÄKTA HIGH DEFINTION MEDIA OMGIVNING</string>
   <string id="31815">AEON RENDERAR STÖRSTA DELEN AV SIN GRAFIK I 1080P OCH FÖRMINSKAR DEN FÖR[CR]ATT PASSA VILKEN HD-SKÄRM SOM HELST. AEON STÅR VID TOPPEN AV DIGITAL UNDERHÅLLNING</string>
-  <string id="31816">KLARAR DIN HÅRDVARA AV AEON?</string>
-  <string id="31817">XBMC HAR ANSPRÅKSLÖSA SYSTEMKRAV, MEN DEN FÖRBRUKAR MÄRKBART AV[CR]PROCESSORN FÖR HD VIDEO. PIXEL SHADER 3 KAPABLA GRAFIKKORT REKOMMENDERAS</string>
-  <string id="31818">FINASTE DETALJERNA</string>
+  <string id="31816">TIPS: KLARAR DIN HÅRDVARA AV AEON?</string>
+  <string id="31817">PLEX HAR ANSPRÅKSLÖSA SYSTEMKRAV, MEN DEN FÖRBRUKAR MÄRKBART AV[CR]PROCESSORN FÖR HD VIDEO. PIXEL SHADER 3 KAPABLA GRAFIKKORT REKOMMENDERAS</string>
+  <string id="31818">TIPS: FINSLIPA DETALJERNA</string>
   <string id="31819">AEONS STARTSIDA KAN FÖRMINSKAS FÖR ATT LÅTA DINA BAKGRUNDER LYSA IGENOM ELLER[CR]FÖRSTORAS FÖR ATT FÖRBÄTTRA LÄSBARHETEN HOS DE MED NEDSATT SYN</string>
-  <string id="31820">VAR OCH EN FÖR SIG</string>
-  <string id="31821">XBMC STÖDER FLERA ANVÄNDARKONTON, VILKET LÅTER ENSKILDA ANVÄNDARE SPARA SINA[CR]ANPASSNINGAR. RSS FLÖDEN, VY-INSTÄLLNINGAR OCH MEDIABIBLIOTEK KAN SPARAS SKILT</string>
+  <string id="31820">TIPS: VAR OCH EN FÖR SIG</string>
+  <string id="31821">PLEX STÖDER FLERA ANVÄNDARKONTON, VILKET LÅTER ENSKILDA ANVÄNDARE SPARA SINA[CR]ANPASSNINGAR. RSS FLÖDEN, VY-INSTÄLLNINGAR OCH MEDIABIBLIOTEK KAN SPARAS SKILT</string>
   <string id="31900">GRAFISKA ELEMENT</string>
   <string id="31901">FÖRVALDA BAKGRUNDSBILDER</string>
   <string id="31902">FÖRVALDA IKONER INNEHÅLLER ELEMENT AV</string>
