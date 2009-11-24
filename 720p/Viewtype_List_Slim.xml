@@ -52,6 +52,7 @@
 		<align>center</align>
 		<aligny>center</aligny>
 		<animation effect="slide" start="0,-11" end="0,-11" time="0" condition="Window.IsActive(500) | Window.IsActive(501) | Window.IsActive(502) | [Window.IsActive(25) + Skin.HasSetting(videotv)]">Conditional</animation>
+		
 	</include>
 	<include name="List_Objects_Slim">
 		<posx>105</posx>
@@ -168,7 +169,7 @@
 						<include>ListLabel_TrackSmall_Slim</include>
 						<include>listcolornofocus</include>
 						<label>$INFO[ListItem.TrackNumber]</label>
-						<visible>[Window.IsActive(500) | Window.IsActive(501) | Container.Content(songs)]</visible>
+						<visible>Container.Content(songs) | Window.IsVisible(500)</visible>
 					</control>
 					<control type="label">
 						<include>ListLabel_MainSmall_Slim</include>
@@ -279,9 +280,8 @@
 					<control type="label">
 						<include>ListLabel_TrackSmall_Slim</include>
 						<include>listcolornofocus</include>
-						
 						<label>$INFO[ListItem.TrackNumber]</label>
-						<visible>[Window.IsActive(500) | Window.IsActive(501) | Container.Content(songs)]</visible>
+						<visible>Container.Content(songs)</visible>
 					</control>
 					<control type="label">
 						<include>ListLabel_MainSmall_Slim</include>
@@ -356,9 +356,8 @@
 					<control type="label">
 						<include>ListLabel_TrackSmall_Slim</include>
 						<include>listcolorfocus</include>
-						
 						<label>$INFO[ListItem.TrackNumber]</label>
-						<visible>[Window.IsActive(500) | Window.IsActive(501) | Container.Content(songs)]</visible>
+						<visible>Container.Content(songs) | Window.IsVisible(500)</visible>
 					</control>
 					<control type="label">
 						<include>ListLabel_MainSmall_Slim</include>
