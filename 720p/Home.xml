@@ -82,13 +82,7 @@
 				<defaultcontrol>300</defaultcontrol>
 				<include>MainMenu</include>
 				
-				 <item id="15">
-            <description>SVT Play</description>
-            <label> SVT Play</label>
-            <label2> Watch </label2>
-            <onclick>Plex.ActivateWindow(MyVideoFiles,SVT Play,return)</onclick>
-          </item>
-			</control>
+				 </control>
 
 			<control type="image">
 				<posx>0</posx>
