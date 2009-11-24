@@ -1272,7 +1272,7 @@
 					
 					<control type="image">
 					
-				<posx>846</posx>
+				<posx>837</posx>
 				<posy>82</posy>
 				<width>379</width>
 				<height>180</height>
@@ -1290,7 +1290,7 @@
 				<control type="textbox">
 				
 				
-						<posx>884</posx>
+						<posx>875</posx>
 						<posy>110</posy>
 					
 						<width>300</width>
