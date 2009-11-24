@@ -150,7 +150,7 @@
 
 			<control type="group" id="9000">
 				<posx>382</posx>
-				<posy>97</posy>
+				<posy>57</posy>
 				<control type="button" id="11">
 					<description>Button: Browse</description>
 					<posy>0</posy>
@@ -206,6 +206,25 @@
 					<onleft>10</onleft>
 					<onright>10</onright>
 					<onup>13</onup>
+					<ondown>20</ondown>
+					<texturenofocus>-</texturenofocus>
+					<texturefocus>dialogs/setcontent_rightmenu_highlight.png</texturefocus>
+				</control>
+				<control type="button" id="20">
+					<description>Button: Set Content</description>
+					<posy>123</posy>
+					<width>156</width>
+					<height>41</height>
+					<font>Font_SetContentMenu</font>
+		            <label>$LOCALIZE[20333]</label>
+					<align>left</align>
+					<textcolor>FFf5f5f5</textcolor>
+					<focusedcolor>FF262728</focusedcolor>
+					<selectedcolor>FF262728</selectedcolor>
+					<textoffsetx>20</textoffsetx>
+					<onleft>12</onleft>
+					<onright>12</onright>
+					<onup>14</onup>
 					<ondown>19</ondown>
 					<texturenofocus>-</texturenofocus>
 					<texturefocus>dialogs/setcontent_rightmenu_highlight.png</texturefocus>
@@ -213,7 +232,7 @@
 
 				<control type="button" id="19">
 					<description>Button: Cancel</description>
-					<posy>123</posy>
+					<posy>164</posy>
 					<width>156</width>
 					<height>41</height>
 					<font>Font_SetContentMenu</font>
@@ -225,15 +244,14 @@
 					<textoffsetx>20</textoffsetx>
 					<onleft>12</onleft>
 					<onright>12</onright>
-					<onup>14</onup>
+					<onup>20</onup>
 					<ondown>18</ondown>
 					<texturenofocus>-</texturenofocus>
 					<texturefocus>dialogs/setcontent_rightmenu_highlight.png</texturefocus>
 				</control>
-
 				<control type="button" id="18">
 					<description>Button: OK</description>
-					<posy>164</posy>
+					<posy>203</posy>
 					<width>156</width>
 					<height>41</height>
 					<font>Font_SetContentMenu</font>
