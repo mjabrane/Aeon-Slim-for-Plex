@@ -4,7 +4,7 @@
 		<height>61</height>
 		<font>Font_MainMenu</font>
 		<posx>80</posx>
-		<width>280</width>
+		<width>350</width>
 		<info>ListItem.Label</info>
 		<align>center</align>
 		<aligny>center</aligny>
@@ -74,7 +74,7 @@
 			<onfocus>SetFocus(299)</onfocus>
 			<animation type="WindowOpen" condition="!Skin.HasSetting(nozooms)" reversible="false">
 				<!--	Set start to -1280 for standard animation -->
-				<effect type="slide" start="0" end="0" time="400" tween="quadratic" easing="out" />
+				<effect type="slide" start="-1280" end="0" time="400" tween="quadratic" easing="out" />
 				<effect type="fade" start="0" end="100" time="400" />
 			</animation>
 			<animation effect="fade" start="100" end="0" time="200">WindowClose</animation>
@@ -97,16 +97,7 @@
 			</focusedlayout>
 			<content> 
 				
-			<!-- Plugin in Home Menu 
 			
-			 <item id="15">
-            <description>Plugin description</description>
-            <label> Plugin name</label>
-            <label2> Watch </label2>
-            <onclick>Plex.ActivateWindow(MyVideoFiles,Plugin name,return)</onclick>
-            </item>
-          		          
-          <!-- End of Plugin in Home Menu -->
 			
 				<item id="1">
 					<label>31010</label>
@@ -117,7 +108,7 @@
 				<item id="2">
 					<label>31011</label>
 					<include>BackgroundVarsGames</include>
-					<onclick>XBMC.ActivateWindow(MyPrograms)</onclick>
+					<onclick>XBMC.ActivateWindow(MyPrograms,return)</onclick>
 					<visible>!Skin.HasSetting(nogames)</visible>
 					<visible>!Skin.HasSetting(launcherforgames)</visible>
 				</item>
@@ -215,6 +206,17 @@
 					<onclick>XBMC.Shutdown()</onclick>
 					<visible>Skin.HasSetting(shutdown)</visible>
 				</item>
+				
+				<!-- Plugin in Home Menu 
+			
+			      <item id="15">
+                  <description>Plugin description</description>
+                  <label>Plugin name</label>
+                  <onclick>Plex.ActivateWindow(MyVideoFiles,Plugin name,return)</onclick>
+                  </item>
+          		          
+                <!-- End of Plugin in Home Menu -->
+				
 			</content>
 		</control>
 	</include>
