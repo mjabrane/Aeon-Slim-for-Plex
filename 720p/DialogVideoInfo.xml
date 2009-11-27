@@ -463,8 +463,8 @@
 		-->
 		<control type="image">
 			<description>IMDB rating</description>
-			<posx>411</posx>
-			<posy>70</posy>
+			<posx>100</posx>
+			<posy>72</posy>
 			<width>151</width>
 			<height>30</height>
 			<info>ListItem.StarRating</info>
