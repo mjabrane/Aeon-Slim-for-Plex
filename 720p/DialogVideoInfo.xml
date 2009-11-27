@@ -463,7 +463,7 @@
 		-->
 		<control type="image">
 			<description>IMDB rating</description>
-			<posx>100</posx>
+			<posx>411</posx>
 			<posy>72</posy>
 			<width>151</width>
 			<height>30</height>
