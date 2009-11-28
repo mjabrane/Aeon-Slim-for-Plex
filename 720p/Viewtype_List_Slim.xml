@@ -270,12 +270,13 @@
 						
 						<visible>Control.IsVisible(550) | Window.IsActive(106) | Window.IsActive(129) | Window.IsActive(126) | Window.IsActive(601) | Window.IsActive(602) | Window.IsActive(111) | Window.IsActive(2003)</visible>
 					</control>
+					<!-- White text -->
 					<control type="label">
 						<include>ListLabel_MainSmall_Slim</include>
 						<include>listcolornofocus</include>
 						
 						<label>$INFO[ListItem.Artist] - $INFO[ListItem.Title]</label>
-						<visible>[Window.IsActive(500) | Window.IsActive(501) | Container.Content(songs)] + !IsEmpty(ListItem.Artist)</visible>
+						<visible>[Window.IsActive(500) | Window.IsActive(501) | Container.Content(songs)] + !IsEmpty(ListItem.Artist)  + !IsEmpty(ListItem.Title)</visible>
 					</control>
 					<control type="label">
 						<include>ListLabel_TrackSmall_Slim</include>
@@ -346,12 +347,13 @@
 						<label>[UPPERCASE]$INFO[ListItem.Episode] [/UPPERCASE]$LOCALIZE[31938]</label>
 						<visible>[Container.Content(tvshows) | Container.Content(seasons)] + Container.Content(episodes)</visible>
 					</control>
+					<!-- Dark text -->
 					<control type="label">
 						<include>ListLabel_MainSmall_Slim</include>
 						<include>listcolorfocus</include>
 						
 						<label>$INFO[ListItem.Artist] - $INFO[ListItem.Title]</label>
-						<visible>[Window.IsActive(500) | Window.IsActive(501) | Container.Content(songs)] + !IsEmpty(ListItem.Artist)</visible>
+						<visible>[Window.IsActive(500) | Window.IsActive(501) | Container.Content(songs)] + !IsEmpty(ListItem.Artist) + !IsEmpty(ListItem.Title)</visible>
 					</control>
 					<control type="label">
 						<include>ListLabel_TrackSmall_Slim</include>
